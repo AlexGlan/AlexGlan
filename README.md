@@ -6,4 +6,4 @@ I am an indie developer interested in data engineering, full-stack web developme
 
 💻 **Stats**
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGlan&layout=compact&theme=tokyonight">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGLan&hide=html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
