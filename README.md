@@ -22,4 +22,4 @@ I am an independent developer interested in full-stack development, database man
 
 ### 📊 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGLan&hide=html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGLan&hide=html,css,scss&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
