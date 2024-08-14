@@ -19,9 +19,3 @@ I am an independent developer interested in full-stack development, database man
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />          
 <br />
-
-#
-
-### 📊 Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGLan&hide=html,css,scss&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
