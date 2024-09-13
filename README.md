@@ -1,6 +1,6 @@
-# ☁️ Hello there, I'm Alex! 
+# Hello there, I'm Alex! 
 
-I am an independent developer interested in full-stack development, database management, and Python/Bash automation. I love to explore and learn about new things. I also enjoy solving programming problems at LeetCode. 🌱
+I am an independent developer interested in full-stack development. I love to explore and learn about new things. I also enjoy solving programming problems at LeetCode. 🌱
 
 ---
 
