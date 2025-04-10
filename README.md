@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I like to code stuff. At the moment I'm primarily a front-end developer, but I follow my curiousity.
+I like to code stuff. At the moment I'm primarily a web developer with a front-end orientation, but I follow my curiousity.
 
 🐛 Warning: bugs ahead!
 
